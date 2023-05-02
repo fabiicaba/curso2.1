@@ -1,0 +1,27 @@
+h1{
+    text-align: center;
+    font-size: 25px; 
+    background-color: goldenrod;
+    font-family:monospace;
+}
+p{
+    text-align: center;
+    font-size: 18px;
+    color: goldenrod;
+}
+#info{
+text-align: left;
+font-size: 18px;
+margin: 10px;
+}
+
+body{
+background-image: url(img1/img2.jpg);
+background-attachment: fixed;
+background-position: center center;
+background-size: 900px;
+color: white;
+}
+form{
+    margin: 10px;
+}
